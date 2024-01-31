@@ -5,3 +5,5 @@ evaluate
 torch
 numpy
 scikit-learn
+jupyter
+ipywidgets
